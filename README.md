@@ -13,6 +13,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardo5&layout=compact" />
 </a>
 
+[![Jarods Stats](https://github-readme-stats.vercel.app/api?username=jardo5&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 <!---
 jardo5/jardo5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
