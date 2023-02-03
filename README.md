@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jardo5/jardo5/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jardo5/>
 
 ###
