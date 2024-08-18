@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=donut-vertical&height=400&langs_count=12&theme=dark&hide_border=false&username=jardo5&count_private=true&hide=html" height="150" alt="languages graph"  />
+  <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=donut&height=400&langs_count=12&theme=dark&hide_border=false&username=jardo5&count_private=true&hide=html" height="150" alt="languages graph"  />
 </div>
 
 ###
