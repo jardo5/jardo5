@@ -1,12 +1,4 @@
-<h2 align="center">Hello, My name is Jarod.</h2>
-
 ###
-
-###
-
-<div align="center">
-  <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=donut&height=400&langs_count=12&theme=dark&hide_border=false&username=jardo5&count_private=true&hide=html" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -27,6 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="42" alt="svelte logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg" height="30" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="30" width="42"/>
+          
 </div>
 
 ###
@@ -54,9 +49,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/jarod-schupp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:schuppjarod@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@gmail.com&logo=gmail&label=schuppjarod&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/Jardo#1108" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
